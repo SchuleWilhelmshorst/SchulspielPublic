@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/SchuleWilhelmshorst\/Floor1\/floor1.json"
+                 "value":"..\/SchuleWilhelmshorst\/floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/SchuleWilhelmshorst\/Lyon\/Lyon.json"
+                 "value":"..\/SchuleWilhelmshorst\/Lyon.json"
                 }],
          "type":"tilelayer",
          "visible":true,
